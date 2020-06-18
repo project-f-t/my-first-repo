@@ -1,3 +1,2 @@
 # my-first-repo
-This is my awesome repo
-Thank you for visiting.
+This is my awesome repo.
