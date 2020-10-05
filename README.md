@@ -1,4 +1,1 @@
-# my-first-repo
-<<<<<<< HEAD
-This is my awesome repo.
-oh Thank you.
+this is my second time for learning Git and GitHub.
